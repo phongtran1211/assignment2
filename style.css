@@ -1,0 +1,44 @@
+body{
+    background: #06c46c;
+
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+}
+form{
+    width: 475px;
+    margin: 0px auto;
+    background: white;
+    padding: 20px 22px;
+    box-shadow: 5px 5px 10px rgb(68, 63, 63);
+}
+form .btxh input{
+    width: 470px;
+    height: 35px;
+    margin-top: 10px;  
+    margin-bottom: 15px;
+}
+form .btxh .occupation{
+    width: 450px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+form .comment{
+    margin-top: 10px;
+}
+form button{
+    width: 475px;
+    background: #06c46c;
+    border: 1px solid rgba(0, 0, 0,0.5);
+    height: 30px;
+    font-weight: 500;
+    
+}
+form input{
+    margin-top: 10px;
+}
+
+
